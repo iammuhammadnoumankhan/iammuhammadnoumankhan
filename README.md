@@ -13,21 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.noumankhanonai.com/](https://portfolio.noumankhanonai.com/)
-
-- 📝 I regularly write articles on [https://noumankhanonai.com](https://noumankhanonai.com)
-
 - 💬 Ask me about **AI|DATA|SCRAPING|PYTHON DEVELOPMENT**
 
 - 📫 How to reach me **iammuhammadnoumankhan@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/m3j2hdwibp8tr29mnz0zd/Muhammad-Nouman-Khan-CV.pdf?rlkey=mpthyx2wbgwlpx1ze2ilwjnnd&dl=0](https://www.dropbox.com/scl/fi/m3j2hdwibp8tr29mnz0zd/Muhammad-Nouman-Khan-CV.pdf?rlkey=mpthyx2wbgwlpx1ze2ilwjnnd&dl=0)
+- 📄 Know about my experiences [CV](https://www.dropbox.com/scl/fi/m3j2hdwibp8tr29mnz0zd/Muhammad-Nouman-Khan-CV.pdf?rlkey=mpthyx2wbgwlpx1ze2ilwjnnd&dl=0)
 
 - ...
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
