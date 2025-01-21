@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **iammuhammadnoumankhan@gmail.com**
 
-- ![LinkedIn](https://www.linkedin.com/in/muhammad-nouman-khan-248530233/)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-nouman-khan-248530233/)
 
 - ...
 
