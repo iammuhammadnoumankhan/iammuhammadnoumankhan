@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **iammuhammadnoumankhan@gmail.com**
 
-- 📄 Know about my experiences [CV](https://www.dropbox.com/scl/fi/bmg2v3wk8v9xrv09job2w/Muhammad-Nouman-Khan.-CV.pdf?rlkey=rmgxnn4fo9m023nwmfs591swi&st=glevb9i1&dl=0)
+- ![LinkedIn](https://www.linkedin.com/in/muhammad-nouman-khan-248530233/)
 
 - ...
 
