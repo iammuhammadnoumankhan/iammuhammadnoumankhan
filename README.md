@@ -1,42 +1,179 @@
-<h1 align="center">Hi 👋, I'm Muhammad Nouman Khan</h1>
-<h3 align="center">A passionate AI-ENGINEER|DATA SCIENTIST|PYTHON DEVELOPER</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammuhammadnoumankhan&label=Profile%20views&color=0e75b6&style=flat" alt="iammuhammadnoumankhan" /> </p>
+```
+███╗   ███╗███╗   ██╗██╗  ██╗
+████╗ ████║████╗  ██║██║ ██╔╝
+██╔████╔██║██╔██╗ ██║█████╔╝ 
+██║╚██╔╝██║██║╚██╗██║██╔═██╗ 
+██║ ╚═╝ ██║██║ ╚████║██║  ██╗
+╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammuhammadnoumankhan" alt="iammuhammadnoumankhan" /></a> </p>
+# Muhammad Nouman Khan
 
-<p align="left"> <a href="https://twitter.com/iammnoumankhan" target="blank"><img src="https://img.shields.io/twitter/follow/iammnoumankhan?logo=twitter&style=for-the-badge" alt="iammnoumankhan" /></a> </p>
+**`AI Engineer · MLOps Specialist · IEEE Researcher`**
 
-- 🔭 I’m currently working on **LLMs**
+<a href="https://iammuhammadnoumankhan.github.io/me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-nouman-khan-248530233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kaggle.com/iammnoumankhan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="mailto:iammuhammadnoumankhan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/iammnoumankhan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-- 🌱 I’m currently learning **SaaS | AI INSIGHTS**
+<img src="https://komarev.com/ghpvc/?username=iammuhammadnoumankhan&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-- 👯 I’m looking to collaborate on **Open-Source Projects**
+</div>
 
-- 💬 Ask me about **AI|DATA|SCRAPING|PYTHON DEVELOPMENT**
+---
 
-- 📫 How to reach me **iammuhammadnoumankhan@gmail.com**
+## ⚡ What I Do
 
-- [LinkedIn](https://www.linkedin.com/in/muhammad-nouman-khan-248530233/)
+> I build AI systems that actually work in production — from GPU clusters running H100s to LLM inference pipelines serving thousands of requests per second.
 
-- ...
+I'm an **AI & MLOps Engineer** based in Islamabad, Pakistan, with a deep focus on:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iammnoumankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iammnoumankhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-nouman-khan-248530233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-nouman-khan-248530233" height="30" width="40" /></a>
-<a href="https://kaggle.com/iammnoumankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iammnoumankhan" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100014011838424&mibextid=9r9pxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100014011838424&mibextid=9r9pxo" height="30" width="40" /></a>
-<a href="https://instagram.com/iammuhammadnoumankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammuhammadnoumankhan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/noumankhanonai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noumankhanonai" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/sBHcGPq7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sBHcGPq7" height="30" width="40" /></a>
-</p>
+- 🧠 **LLM Inference & Optimization** — deploying large language models at scale using vLLM, KServe, and Triton Inference Server with FP8/INT8 quantization and tensor parallelism
+- 🖥️ **NVIDIA Infrastructure** — managing DGX systems (A100 / H100 / H200), NVIDIA Base Command Manager (BCM), NVIDIA AI Enterprise, DeepStream, and NIM microservices
+- ☸️ **Kubernetes at Scale** — provisioning and orchestrating GPU-aware K8s clusters via Kubeadm, Terraform, and Kubeflow for high-availability AI workloads
+- 🔬 **AI Research** — IEEE-published researcher in Graph-based Retrieval-Augmented Generation (RAG) in collaboration with University of Hull, UK
+- 🤖 **Agentic AI Systems** — building multi-agent workflows and RAG pipelines using LangChain, LlamaIndex, and CrewAI
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammuhammadnoumankhan&show_icons=true&locale=en&layout=compact" alt="iammuhammadnoumankhan" /></p>
+## 🏢 Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammuhammadnoumankhan&show_icons=true&locale=en" alt="iammuhammadnoumankhan" /></p>
+```
+BetaCodes Pvt Ltd         MLOps Engineer         Aug 2025 – Present
+iQera Schools (USA)       AI Engineer            Aug 2024 – Present
+Sybrid Pvt Ltd            GenAI Intern           Jul 2024 – Sep 2024
+Rapidev                   ML/CV Intern           Aug 2023 – Sep 2023
+Sino-Pak Center for AI    AI Intern              Jul 2022 – Sep 2022
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammuhammadnoumankhan&" alt="iammuhammadnoumankhan" /></p>
+---
+
+## 📄 Publications
+
+> **"To Enhance Graph-Based Retrieval-Augmented Generation (RAG) with Robust Retrieval Techniques"**  
+> *M. Rani, B. K. Mishra, D. Thakker, **M. N. Khan***  
+> 📍 IEEE ICOSST 2024 · International Conference on Open-Source Systems and Technologies  
+> 🤝 In collaboration with **University of Hull, UK**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / ML & LLMs
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### 🖥️ NVIDIA / GPU / HPC
+![NVIDIA](https://img.shields.io/badge/NVIDIA_DGX-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiM3NkI5MDAiLz48L3N2Zz4=&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton_Inference-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![DeepStream](https://img.shields.io/badge/DeepStream-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Jetson](https://img.shields.io/badge/Jetson_Edge-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+### ☸️ MLOps / Infrastructure
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![KServe](https://img.shields.io/badge/KServe-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubeflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🧱 Backend & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏗️ **AI Studio** *(FYP)* | Cloud-native AI deployment platform with MLOps workflows & model registry | K8s, KServe, MLflow |
+| 🔍 **Graph RAG Research** | IEEE-published enhancement of graph-based retrieval for LLMs | Python, Neo4j, LLMs |
+| 🧬 **Glaucoma Detection** | Attention-based CNN for medical imaging diagnosis | PyTorch, OpenCV |
+| 🎤 **Whisper Fine-Tuning** | Custom ASR model trained on Quranic speech dataset | HuggingFace, PyTorch |
+| 📦 **Inventory Management** | YOLOv8 real-time object detection for retail analytics | YOLOv8, FastAPI |
+| 🌞 **Solar Forecasting** | Time-series model for smart building energy optimization | scikit-learn, Pandas |
+| 🚗 **License Plate Detection** | Real-time ANPR with REST APIs for vector conversion | YOLO, OpenCV, FastAPI |
+| 💬 **Tax & Finance Chatbot** | Domain-specific LLM chatbot with knowledge base | LangChain, OpenAI |
+| 📈 **DeepSeek Trading** | Financial data extraction & AI-powered market analysis | DeepSeek, Python |
+| 🧑‍💼 **Facial Attendance** | Real-time face recognition on edge devices | OpenCV, Raspberry Pi |
+
+---
+
+## 🏅 Certifications
+
+- 🟢 **Certified Kubernetes Application Developer (CKAD)**
+- 🤖 **Machine Learning Specialization** — Coursera / DeepLearning.AI
+- 🧠 **Generative AI with Large Language Models** — Coursera / DeepLearning.AI
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place** — Uraan Projects Exhibition (Fall 2023) · Multi-model AI web deployment · Pak-Austria Fachhochschule
+- 🏅 **4th Place** — Uraan Projects Exhibition (Spring 2023) · Solar Irradiance Forecasting
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iammuhammadnoumankhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammuhammadnoumankhan&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iammuhammadnoumankhan&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iammuhammadnoumankhan&theme=tokyonight&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💡 Currently
+
+- 🔭 Building **production-grade LLM inference infrastructure** at BetaCodes with NVIDIA DGX
+- 🌱 Deep-diving into **NVIDIA AI Enterprise stack** — NIM, DeepStream, BCM
+- 📖 Exploring **SaaS architecture** and **AI product development**
+- 🤝 Open to collaboration on **open-source AI/MLOps** projects
+
+---
+
+<div align="center">
+
+*"The gap between a prototype and production is where real engineering lives."*
+
+**Let's connect →** [iammuhammadnoumankhan@gmail.com](mailto:iammuhammadnoumankhan@gmail.com)
+
+</div>
