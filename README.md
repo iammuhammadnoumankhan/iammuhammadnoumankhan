@@ -14,6 +14,7 @@
 **`AI Engineer · MLOps Specialist · IEEE Researcher`**
 
 <a href="https://iammuhammadnoumankhan.github.io/me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://iammuhammadnoumankhan.github.io/me/Muhammad-Nouman-Khan-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-00B8C4?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muhammad-nouman-khan-248530233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://kaggle.com/iammnoumankhan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="mailto:iammuhammadnoumankhan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -27,12 +28,12 @@
 
 ## ⚡ What I Do
 
-> I build AI systems that actually work in production — from GPU clusters running H100s to LLM inference pipelines serving thousands of requests per second.
+> I build AI systems that actually work in production — from GPU clusters (NVIDIA DGX, RTX 4090/5090, V100, H200) to LLM inference pipelines serving thousands of requests per second.
 
 I'm an **AI & MLOps Engineer** based in Islamabad, Pakistan, with a deep focus on:
 
-- 🧠 **LLM Inference & Optimization** — deploying large language models at scale using vLLM, KServe, and Triton Inference Server with FP8/INT8 quantization and tensor parallelism
-- 🖥️ **NVIDIA Infrastructure** — managing DGX systems (A100 / H100 / H200), NVIDIA Base Command Manager (BCM), NVIDIA AI Enterprise, DeepStream, and NIM microservices
+- 🧠 **LLM Inference & Optimization** — deploying large language models at scale using vLLM, KServe, and Triton Inference Server with quantization, tensor parallelism and continuous batching
+- 🖥️ **NVIDIA Infrastructure** — managing DGX systems and consumer & data-center GPUs (RTX 4090/5090, V100, H200), NVIDIA Base Command Manager (BCM), NVIDIA AI Enterprise, DeepStream, and NIM microservices
 - ☸️ **Kubernetes at Scale** — provisioning and orchestrating GPU-aware K8s clusters via Kubeadm, Terraform, and Kubeflow for high-availability AI workloads
 - 🔬 **AI Research** — IEEE-published researcher in Graph-based Retrieval-Augmented Generation (RAG) in collaboration with University of Hull, UK
 - 🤖 **Agentic AI Systems** — building multi-agent workflows and RAG pipelines using LangChain, LlamaIndex, and CrewAI
@@ -43,7 +44,7 @@ I'm an **AI & MLOps Engineer** based in Islamabad, Pakistan, with a deep focus o
 
 ```
 BetaCodes Pvt Ltd         MLOps Engineer         Aug 2025 – Present
-iQera Schools (USA)       AI Engineer            Aug 2024 – Present
+iQera Schools (USA)       AI Engineer            Aug 2024 – Jun 2026
 Sybrid Pvt Ltd            GenAI Intern           Jul 2024 – Sep 2024
 Rapidev                   ML/CV Intern           Aug 2023 – Sep 2023
 Sino-Pak Center for AI    AI Intern              Jul 2022 – Sep 2022
@@ -110,16 +111,18 @@ Sino-Pak Center for AI    AI Intern              Jul 2022 – Sep 2022
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🎙️ **Sadaa — ASR Annotation Platform** | Event-driven platform turning raw audio/video into versioned, word-level-timestamped speech datasets via transcription, forced alignment & human review | FastAPI, PostgreSQL, Redis Streams, MinIO |
 | 🏗️ **AI Studio** *(FYP)* | Cloud-native AI deployment platform with MLOps workflows & model registry | K8s, KServe, MLflow |
+| 🛡️ **SecureFace** | Low-latency face recognition with anti-spoofing & liveness detection across multiple cameras | InsightFace, ONNX, FAISS |
+| 📄 **[GOT-OCR 2.0 Microservice](https://github.com/iammuhammadnoumankhan/FastAPI-GOT-OCR-2-Transformers)** | OCR microservice: formatted text (LaTeX/Markdown), multi-page documents, math & sheet music | Transformers, FastAPI, CUDA |
+| 🎤 **[Whisper Transcription Service](https://github.com/iammuhammadnoumankhan/Whisper-FastAPI-Transcription-Service)** | Production speech-to-text API with word timestamps, VAD and batched inference | faster-whisper, FastAPI, Docker |
+| 🖧 **[OpenMPI HPC Cluster](https://github.com/iammuhammadnoumankhan/OpenMPI-Cluster)** | Five-node HPC cluster build guide: networking, NFS shared storage, OpenMPI | OpenMPI, NFS, Linux |
 | 🔍 **Graph RAG Research** | IEEE-published enhancement of graph-based retrieval for LLMs | Python, Neo4j, LLMs |
+| 🎧 **Whisper Fine-Tuning** | Custom ASR model trained on Quranic speech dataset | HuggingFace, PyTorch |
 | 🧬 **Glaucoma Detection** | Attention-based CNN for medical imaging diagnosis | PyTorch, OpenCV |
-| 🎤 **Whisper Fine-Tuning** | Custom ASR model trained on Quranic speech dataset | HuggingFace, PyTorch |
-| 📦 **Inventory Management** | YOLOv8 real-time object detection for retail analytics | YOLOv8, FastAPI |
-| 🌞 **Solar Forecasting** | Time-series model for smart building energy optimization | scikit-learn, Pandas |
-| 🚗 **License Plate Detection** | Real-time ANPR with REST APIs for vector conversion | YOLO, OpenCV, FastAPI |
-| 💬 **Tax & Finance Chatbot** | Domain-specific LLM chatbot with knowledge base | LangChain, OpenAI |
 | 📈 **DeepSeek Trading** | Financial data extraction & AI-powered market analysis | DeepSeek, Python |
-| 🧑‍💼 **Facial Attendance** | Real-time face recognition on edge devices | OpenCV, Raspberry Pi |
+
+<sub>More projects on my **[portfolio →](https://iammuhammadnoumankhan.github.io/me/pages/projects.html)**</sub>
 
 ---
 
